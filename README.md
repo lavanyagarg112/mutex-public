@@ -1,1 +1,1 @@
-Hello! Find the companion app for mutex here
+Hello! Find the companion app for mutex under releases!
